@@ -5,8 +5,8 @@
   <img align="center" src="https://miro.medium.com/max/1280/1*64O1JAsgcvVv1hyE-RnZKQ.png">
 </p>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802), we will see how to help your local bakery to maximize its profit by producing the right items using Linear Programming with Python.
+### Article
+In this [Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/), we will see how to help your local bakery to maximize its profit by producing the right items using Linear Programming with Python.
 
 
 ### Problem Statement
