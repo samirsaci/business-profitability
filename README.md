@@ -6,7 +6,7 @@
 </p>
 
 ### Article
-In this [Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/), we will see how to help your local bakery to maximize its profit by producing the right items using Linear Programming with Python.
+In this [Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802), we will see how to help your local bakery to maximize its profit by producing the right items using Linear Programming with Python.
 
 
 ### Problem Statement
