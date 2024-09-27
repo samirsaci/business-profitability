@@ -2,7 +2,8 @@
 *Use linear programming to help your local bakery to improve its business profitability by selecting the right items to sell*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/1280/1*64O1JAsgcvVv1hyE-RnZKQ.png">
+  <img alt="A graphic showing how to maximize bakery profitability by selecting the right items to sell. Three bakery items are listed: Cake (profit: 6€, preparation: 95 min), Croissant (profit: 0.9€, preparation: 55 min), and Sandwich (profit: 4.4€, preparation: 12 min). The graphic highlights the differences in profit margins and preparation times, helping business owners prioritize higher-margin, less time-intensive products to improve overall business profitability with Python."
+    align="center" src="https://miro.medium.com/max/1280/1*64O1JAsgcvVv1hyE-RnZKQ.png">
 </p>
 
 ### Article
@@ -21,7 +22,8 @@ Available resources
 These items have different resource needs and profit level
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*ToORI5-OD4XJUrt0kY46Ew.png">
+  <img alt="Resources needed for each of your SKUs"
+    align="center" src="https://miro.medium.com/max/700/1*ToORI5-OD4XJUrt0kY46Ew.png">
 </p>
 
 ### Objective
