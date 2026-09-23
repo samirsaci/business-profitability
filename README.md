@@ -15,6 +15,12 @@
 ### Article
 In this [Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/), we will see how to help your local bakery to maximise its profit by producing the right items using Linear Programming with Python.
 
+### Youtube Video
+Click on the image below to access the video tutorial that explains the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gHVaf8ldiIs"><img src="https://i.ytimg.com/vi/gHVaf8ldiIs/hqdefault.jpg" alt="How to Do Business Strategy with Python? (+ Code)"></a>
+</div>
+
 ### Problem Statement
 You would like to help your local bakery maximise its profit. They sell several types of products, including cakes, pastries and sandwiches.
 
